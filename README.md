@@ -23,7 +23,7 @@ I'm a Software developer from Iran.
   
   - :seedling: Trying to learn more about DL and AI and also trying some Android development also looking to get started on TryHackMe.
   
-  - :zap: In my free time, I work on creating a videogame using Unity.
+  - :zap: In my free time, I work on creating videogames using Unity.
   
 ---
 
