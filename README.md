@@ -54,5 +54,5 @@ I'm a Software developer from Iran.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BornFromAshes&theme=algolia)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BornFromAshes&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BornFromAshes&show_icons=true&theme=algolia)
 
