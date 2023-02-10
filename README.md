@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I'm a Software developer from Iran
+I'm a Software developer from Iran.
   
   - 🔍: I'm currently working on an image processing project.
   
