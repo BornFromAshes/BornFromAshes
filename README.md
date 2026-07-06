@@ -26,7 +26,7 @@ I'm a Software Engineer pivoting into Cybersecurity, based in Kiel, Germany.
 
   - :seedling: Still learning and building with DL/AI (PyTorch, TensorFlow, Keras) — increasingly relevant to modern threat detection and defense work.
 
-  - :zap: In my free time, I still enjoy building small games and tools in Unity.
+  - :zap: In my free time, I enjoy building small games and tools in Unity.
 
 ---
 
