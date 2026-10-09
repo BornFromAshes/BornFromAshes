@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif" width="150"/>
+  <img src="https://github.com/BornFromAshes/BornFromAshes/blob/main/bernard.gif" width="150"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/parham-razaghian-a49194260">
       <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
