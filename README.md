@@ -52,9 +52,3 @@ I'm a Software Engineer pivoting into Cybersecurity, based in Kiel, Germany.
   <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title= "Linux" width= "40" height="40" />&nbsp;
 </div>
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BornFromAshes&theme=algolia)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BornFromAshes&show_icons=true&theme=algolia)
