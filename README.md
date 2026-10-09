@@ -48,7 +48,6 @@ I'm a Computer Science Master's student at Kiel University (CAU), focusing on IT
 
 ### :hammer_and_wrench: Programming Languages and Tools :
 <div>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title= "C" width= "40" height="40" />&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title= "C++" width= "40" height="40" />&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title= "Python" width= "40" height="40" />&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title= "C#" width= "40" height="40" />&nbsp;
